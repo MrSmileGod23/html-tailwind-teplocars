@@ -1,0 +1,20 @@
+:root {
+  --main: #2B2B2B;
+  --secondary: #EBFFFA;
+}
+.h80{
+  font-size: 80px;
+  color: var(--main);
+}
+.h40{
+  font-size: 40px;
+  color: var(--main);
+}
+@font-face {
+  font-family: RalewayLight ;
+  src: url(../fonts/Raleway/Raleway-Light.ttf);
+  font-weight: 300;
+  font-family: RalewaySemiBold ;
+  src: url(../fonts/Raleway/Raleway-SemiBold.ttf);
+  font-weight: 600;
+}
